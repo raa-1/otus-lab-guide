@@ -7,7 +7,6 @@ Visual Studio Code выбран как очень популярный и удо
 Можете использовать любые другие инструменты, например, для модификации разметки MD программу Typora, а  для работы с git репозиториями - git клиент, например, github desktop.
 
 
-
 ## Подготовка ПО и репозитория
 
 1. Установите Visual Studio Code https://code.visualstudio.com/Download
